@@ -1,0 +1,36 @@
+{
+    "sheets": [
+        {
+            "id": 1,
+            "title": "Sheet 1",
+            "squares": [
+                {
+                    "id": 1,
+                    "value": "apple"
+                },
+                {
+                    "id": 2,
+                    "value": "ghost"
+                },
+                {
+                    "id": 3,
+                    "value": "hat"
+                }
+            ]
+        }
+    ],
+    "cards": [
+        {
+            "id": 1,
+            "value": "apple"
+        },
+        {
+            "id": 2,
+            "value": "ghost"
+        },
+        {
+            "id": 3,
+            "value": "hat"
+        }
+    ]
+}
