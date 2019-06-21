@@ -3,7 +3,7 @@
         {
             "id": 1,
             "title": "Sheet 1",
-            "squares": [
+            "spaces": [
                 {
                     "id": 1,
                     "value": "apple"
@@ -45,7 +45,7 @@
         {
             "id": 2,
             "title": "Sheet 2",
-            "squares": [
+            "spaces": [
                 {
                     "id": 20,
                     "value": "train"
