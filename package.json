@@ -4,11 +4,11 @@
   "description": "Server for Zingo game",
   "main": "index.js",
   "dependencies": {
-    "json-server": "^0.15.0"
+    "express": "^4.17.1"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "json-server --watch data/db.json"
+    "start": "node ./zingo-server.js"
   },
   "repository": {
     "type": "git",
